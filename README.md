@@ -24,4 +24,4 @@ Do the GitHub things with a fork and PR. I assume at this point we don't need
 to go over the instructions for that...
 
 ## May the Force be with you
-Thanks. May the Force be with you too.
+May the Force be with us all.
