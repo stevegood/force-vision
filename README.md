@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/stevegood/force-vision.png?columns=all)](https://waffle.io/stevegood/force-vision?utm_source=badge)
 # Force Vision
 Visual recognition of X-Wing Miniatures cards, miniatures, and cardboards.
 
